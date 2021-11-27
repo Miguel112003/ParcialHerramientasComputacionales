@@ -1,0 +1,8 @@
+¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+
+En la implementación al problema surgieron errores de todo tipo, desde errores de sintaxis, así como errores lógicos y aritméticos, en términos generales los errores fueron fácilmente
+solucionables, sin embargo, existen aspectos en el código que se podrían presentar en caso de que los usuarios no sigan las instrucciones de forma correcta, un ejemplo es en caso de que escriban su documento de identidad con comas o puntos, en tal caso todo el sistema colapsa y necesita ser reiniciado, básicamente la mayoría de errores es en ese tipo de situaciones.
+
+¿Qué estrategias podría usar para solucionar estos errores?
+
+Al momento de solucionar los errores lógicos, aritméticos y de sintaxis se utilizaron pruebas de unidad, pruebas de integración y estrategias de fuerza bruta, aun a pesar de todos estos aspectos el código no es perfecto, pues hay posibles errores en la validación de datos en caso de que el usuario digite algo de manera errónea.
